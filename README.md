@@ -75,7 +75,6 @@ Set the port number for sim-service as:
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 
 ## API Reference
-Certainly! Here's how you can format the API endpoints and methods into a table:
 
 | API Endpoint                                                                                      | Method |
 |---------------------------------------------------------------------------------------------------|--------|
