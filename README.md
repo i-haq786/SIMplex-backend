@@ -74,6 +74,18 @@ Set the port number for sim-service as:
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 
+## API Reference
+Certainly! Here's how you can format the API endpoints and methods into a table:
+
+| API Endpoint                                                                                      | Method |
+|---------------------------------------------------------------------------------------------------|--------|
+| `http://localhost:1002/api/Customer`                                                              | GET    |
+| `http://localhost:1001/api/simDetails/validateSim/serviceNumber/${serviceNumber}/simNumber/${simNumber}` | GET    |
+| `http://localhost:1002/api/Customer/us04`                                                         | POST   |
+| `http://localhost:1002/api/Customer/verify`                                                       | POST   |
+
+This table lists the API endpoints along with their respective HTTP methods, making it easier to understand the endpoints available in this project. 
+
 ## Testing
 
 - ✔️ **JUnit Testing**: Unit testing framework for Java.
